@@ -1,0 +1,101 @@
+product_id,garment_type,occasion,fabric,color,pattern,sleeve_length,embellishment,price_range,brand,price,currency,title
+p000,abaya,everyday,linen,grey,geometric,3/4,embroidery,premium,Royal Abaya,638.96,SAR,Grey Geometric Abaya
+p001,thobe,formal,polyester,beige,geometric,short,sequins,luxury,Elegance,866.85,SAR,Beige Geometric Thobe
+p002,abaya,formal,chiffon,black,striped,long,buttons,luxury,AlNoor,1196.11,SAR,Black Striped Abaya
+p003,thobe,religious,chiffon,cream,striped,short,sequins,budget,Royal Abaya,142.97,SAR,Cream Striped Thobe
+p004,abaya,everyday,silk,black,printed,3/4,beading,luxury,AlNoor,957.12,SAR,Black Printed Abaya
+p005,thobe,formal,linen,white,striped,long,lace,premium,Modesty,403.98,SAR,White Striped Thobe
+p006,abaya,everyday,silk,dark_brown,striped,short,none,mid_range,Classic Thobe,336.85,SAR,Dark_Brown Striped Abaya
+p007,thobe,religious,chiffon,cream,embroidered,long,lace,mid_range,Elegance,332.5,SAR,Cream Embroidered Thobe
+p008,abaya,casual,chiffon,dark_brown,striped,sleeveless,beading,luxury,Modesty,1169.75,SAR,Dark_Brown Striped Abaya
+p009,thobe,religious,polyester,cream,plain,sleeveless,beading,mid_range,AlNoor,307.94,SAR,Cream Plain Thobe
+p010,abaya,casual,cotton,black,plain,sleeveless,embroidery,budget,Royal Abaya,176.26,SAR,Black Plain Abaya
+p011,thobe,wedding,crepe,beige,plain,short,lace,budget,AlNoor,165.36,SAR,Beige Plain Thobe
+p012,abaya,casual,chiffon,dark_brown,embroidered,sleeveless,beading,luxury,Royal Abaya,1131.55,SAR,Dark_Brown Embroidered Abaya
+p013,thobe,casual,silk,beige,printed,long,sequins,luxury,Royal Abaya,1018.78,SAR,Beige Printed Thobe
+p014,abaya,formal,linen,grey,plain,sleeveless,beading,budget,Royal Abaya,166.61,SAR,Grey Plain Abaya
+p015,thobe,everyday,polyester,white,striped,short,beading,premium,AlFarasha,668.73,SAR,White Striped Thobe
+p016,abaya,religious,crepe,grey,geometric,sleeveless,embroidery,premium,Royal Abaya,523.11,SAR,Grey Geometric Abaya
+p017,thobe,casual,crepe,cream,geometric,short,buttons,mid_range,Classic Thobe,376.09,SAR,Cream Geometric Thobe
+p018,abaya,religious,cotton,grey,embroidered,3/4,sequins,luxury,AlNoor,793.29,SAR,Grey Embroidered Abaya
+p019,thobe,everyday,cotton,white,striped,3/4,sequins,budget,Royal Abaya,107.35,SAR,White Striped Thobe
+p020,abaya,formal,polyester,black,printed,sleeveless,embroidery,budget,Gulf Style,138.18,SAR,Black Printed Abaya
+p021,thobe,casual,chiffon,white,striped,long,lace,luxury,Classic Thobe,959.4,SAR,White Striped Thobe
+p022,abaya,casual,crepe,navy,printed,long,none,luxury,Royal Abaya,825.89,SAR,Navy Printed Abaya
+p023,thobe,casual,cotton,grey,geometric,3/4,sequins,budget,Elegance,197.19,SAR,Grey Geometric Thobe
+p024,abaya,wedding,cotton,dark_brown,printed,3/4,sequins,budget,Modesty,138.73,SAR,Dark_Brown Printed Abaya
+p025,thobe,casual,polyester,beige,plain,3/4,sequins,luxury,Modesty,1191.71,SAR,Beige Plain Thobe
+p026,abaya,wedding,linen,grey,striped,3/4,embroidery,premium,Classic Thobe,577.27,SAR,Grey Striped Abaya
+p027,thobe,formal,cotton,white,plain,3/4,buttons,luxury,AlNoor,748.09,SAR,White Plain Thobe
+p028,abaya,religious,linen,navy,printed,sleeveless,none,budget,Classic Thobe,105.09,SAR,Navy Printed Abaya
+p029,thobe,everyday,crepe,white,striped,sleeveless,embroidery,luxury,AlFarasha,830.41,SAR,White Striped Thobe
+p030,abaya,religious,chiffon,grey,printed,sleeveless,none,budget,Classic Thobe,113.46,SAR,Grey Printed Abaya
+p031,thobe,wedding,chiffon,grey,striped,long,embroidery,premium,AlNoor,680.69,SAR,Grey Striped Thobe
+p032,abaya,wedding,crepe,navy,embroidered,long,buttons,budget,AlNoor,114.07,SAR,Navy Embroidered Abaya
+p033,thobe,wedding,cotton,off_white,striped,sleeveless,none,luxury,Classic Thobe,818.62,SAR,Off_White Striped Thobe
+p034,abaya,wedding,silk,charcoal,printed,short,beading,premium,Gulf Style,510.31,SAR,Charcoal Printed Abaya
+p035,thobe,religious,crepe,white,geometric,sleeveless,embroidery,budget,Classic Thobe,149.23,SAR,White Geometric Thobe
+p036,abaya,religious,chiffon,black,striped,long,sequins,premium,Modesty,630.57,SAR,Black Striped Abaya
+p037,thobe,everyday,cotton,white,geometric,short,beading,mid_range,AlFarasha,274.03,SAR,White Geometric Thobe
+p038,abaya,everyday,cotton,dark_brown,geometric,sleeveless,embroidery,premium,Elegance,694.1,SAR,Dark_Brown Geometric Abaya
+p039,thobe,formal,chiffon,cream,printed,3/4,lace,budget,AlFarasha,127.36,SAR,Cream Printed Thobe
+p040,abaya,casual,cotton,navy,plain,3/4,sequins,premium,AlFarasha,488.59,SAR,Navy Plain Abaya
+p041,thobe,formal,cotton,cream,printed,sleeveless,beading,budget,Classic Thobe,115.58,SAR,Cream Printed Thobe
+p042,abaya,religious,cotton,dark_brown,geometric,sleeveless,sequins,mid_range,Gulf Style,201.04,SAR,Dark_Brown Geometric Abaya
+p043,thobe,formal,chiffon,grey,embroidered,3/4,none,luxury,Elegance,1143.31,SAR,Grey Embroidered Thobe
+p044,abaya,casual,polyester,navy,embroidered,short,sequins,premium,AlFarasha,694.55,SAR,Navy Embroidered Abaya
+p045,thobe,everyday,polyester,off_white,plain,sleeveless,buttons,mid_range,Modesty,307.42,SAR,Off_White Plain Thobe
+p046,abaya,wedding,polyester,charcoal,striped,sleeveless,beading,premium,Elegance,425.6,SAR,Charcoal Striped Abaya
+p047,thobe,wedding,polyester,beige,plain,short,lace,luxury,Modesty,1057.3,SAR,Beige Plain Thobe
+p048,abaya,everyday,cotton,black,striped,short,lace,mid_range,AlNoor,392.53,SAR,Black Striped Abaya
+p049,thobe,everyday,cotton,white,geometric,sleeveless,beading,premium,AlFarasha,475.07,SAR,White Geometric Thobe
+p050,abaya,religious,linen,charcoal,printed,sleeveless,embroidery,luxury,Modesty,977.18,SAR,Charcoal Printed Abaya
+p051,thobe,casual,chiffon,grey,geometric,short,sequins,mid_range,Classic Thobe,202.88,SAR,Grey Geometric Thobe
+p052,abaya,everyday,polyester,navy,embroidered,long,sequins,budget,Gulf Style,136.9,SAR,Navy Embroidered Abaya
+p053,thobe,religious,linen,cream,geometric,sleeveless,lace,budget,Elegance,127.82,SAR,Cream Geometric Thobe
+p054,abaya,everyday,polyester,black,geometric,sleeveless,lace,premium,AlNoor,550.94,SAR,Black Geometric Abaya
+p055,thobe,religious,linen,beige,striped,3/4,buttons,luxury,AlNoor,992.89,SAR,Beige Striped Thobe
+p056,abaya,religious,silk,grey,geometric,long,none,budget,Elegance,177.34,SAR,Grey Geometric Abaya
+p057,thobe,formal,crepe,off_white,striped,3/4,lace,premium,Royal Abaya,458.74,SAR,Off_White Striped Thobe
+p058,abaya,formal,linen,charcoal,embroidered,short,lace,premium,Royal Abaya,421.36,SAR,Charcoal Embroidered Abaya
+p059,thobe,formal,crepe,cream,geometric,3/4,beading,budget,Classic Thobe,139.52,SAR,Cream Geometric Thobe
+p060,abaya,formal,crepe,black,striped,long,embroidery,budget,AlNoor,176.42,SAR,Black Striped Abaya
+p061,thobe,everyday,polyester,cream,plain,long,beading,premium,AlFarasha,523.79,SAR,Cream Plain Thobe
+p062,abaya,religious,cotton,black,plain,short,beading,budget,Royal Abaya,108.59,SAR,Black Plain Abaya
+p063,thobe,casual,silk,grey,geometric,sleeveless,none,premium,AlFarasha,516.76,SAR,Grey Geometric Thobe
+p064,abaya,formal,crepe,dark_brown,printed,long,embroidery,luxury,Classic Thobe,1175.03,SAR,Dark_Brown Printed Abaya
+p065,thobe,everyday,cotton,off_white,striped,3/4,beading,budget,Modesty,146.44,SAR,Off_White Striped Thobe
+p066,abaya,wedding,crepe,navy,geometric,3/4,embroidery,mid_range,Elegance,394.85,SAR,Navy Geometric Abaya
+p067,thobe,religious,cotton,cream,embroidered,long,sequins,premium,AlFarasha,442.9,SAR,Cream Embroidered Thobe
+p068,abaya,formal,silk,navy,plain,short,lace,mid_range,Modesty,340.19,SAR,Navy Plain Abaya
+p069,thobe,casual,chiffon,beige,geometric,sleeveless,none,budget,AlFarasha,90.18,SAR,Beige Geometric Thobe
+p070,abaya,religious,silk,dark_brown,striped,long,buttons,premium,Gulf Style,695.8,SAR,Dark_Brown Striped Abaya
+p071,thobe,wedding,crepe,cream,printed,long,lace,premium,Classic Thobe,527.27,SAR,Cream Printed Thobe
+p072,abaya,casual,cotton,dark_brown,geometric,3/4,beading,mid_range,Classic Thobe,211.26,SAR,Dark_Brown Geometric Abaya
+p073,thobe,casual,cotton,grey,plain,short,beading,mid_range,Gulf Style,280.04,SAR,Grey Plain Thobe
+p074,abaya,everyday,chiffon,charcoal,geometric,long,embroidery,mid_range,Classic Thobe,202.43,SAR,Charcoal Geometric Abaya
+p075,thobe,casual,linen,beige,striped,3/4,none,budget,AlNoor,110.36,SAR,Beige Striped Thobe
+p076,abaya,wedding,cotton,black,geometric,3/4,buttons,mid_range,Elegance,258.9,SAR,Black Geometric Abaya
+p077,thobe,everyday,linen,grey,striped,sleeveless,buttons,luxury,Elegance,728.93,SAR,Grey Striped Thobe
+p078,abaya,religious,crepe,navy,striped,long,buttons,luxury,Royal Abaya,876.68,SAR,Navy Striped Abaya
+p079,thobe,everyday,polyester,white,plain,long,buttons,mid_range,Modesty,206.46,SAR,White Plain Thobe
+p080,abaya,wedding,crepe,charcoal,embroidered,3/4,none,budget,Elegance,189.31,SAR,Charcoal Embroidered Abaya
+p081,thobe,everyday,crepe,cream,printed,3/4,none,mid_range,Gulf Style,386.55,SAR,Cream Printed Thobe
+p082,abaya,everyday,linen,black,printed,3/4,none,budget,Gulf Style,137.64,SAR,Black Printed Abaya
+p083,thobe,formal,cotton,off_white,plain,3/4,none,premium,Modesty,652.64,SAR,Off_White Plain Thobe
+p084,abaya,everyday,crepe,dark_brown,plain,short,embroidery,luxury,Modesty,737.68,SAR,Dark_Brown Plain Abaya
+p085,thobe,formal,silk,off_white,embroidered,long,beading,premium,Gulf Style,630.7,SAR,Off_White Embroidered Thobe
+p086,abaya,everyday,polyester,grey,geometric,short,none,budget,AlNoor,95.5,SAR,Grey Geometric Abaya
+p087,thobe,formal,linen,grey,embroidered,short,sequins,luxury,Royal Abaya,1009.06,SAR,Grey Embroidered Thobe
+p088,abaya,everyday,chiffon,black,striped,short,embroidery,premium,AlNoor,492.33,SAR,Black Striped Abaya
+p089,thobe,formal,silk,off_white,geometric,3/4,sequins,budget,Classic Thobe,96.08,SAR,Off_White Geometric Thobe
+p090,abaya,wedding,silk,navy,embroidered,3/4,lace,mid_range,Classic Thobe,270.12,SAR,Navy Embroidered Abaya
+p091,thobe,wedding,cotton,grey,embroidered,long,beading,budget,Classic Thobe,141.68,SAR,Grey Embroidered Thobe
+p092,abaya,religious,polyester,navy,plain,sleeveless,beading,mid_range,Elegance,385.32,SAR,Navy Plain Abaya
+p093,thobe,wedding,silk,off_white,printed,3/4,none,mid_range,AlFarasha,298.52,SAR,Off_White Printed Thobe
+p094,abaya,religious,cotton,grey,striped,3/4,embroidery,premium,Royal Abaya,575.43,SAR,Grey Striped Abaya
+p095,thobe,wedding,silk,off_white,embroidered,long,beading,budget,Elegance,196.77,SAR,Off_White Embroidered Thobe
+p096,abaya,everyday,cotton,charcoal,plain,sleeveless,lace,luxury,Gulf Style,873.81,SAR,Charcoal Plain Abaya
+p097,thobe,wedding,cotton,cream,geometric,short,none,mid_range,AlFarasha,225.75,SAR,Cream Geometric Thobe
+p098,abaya,casual,linen,grey,geometric,sleeveless,none,budget,AlNoor,162.53,SAR,Grey Geometric Abaya
+p099,thobe,formal,crepe,cream,striped,short,sequins,premium,Royal Abaya,455.36,SAR,Cream Striped Thobe
