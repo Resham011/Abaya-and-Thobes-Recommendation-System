@@ -219,7 +219,7 @@ This project is developed as part of a case study for an AI-powered recommendati
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - [MobileNetV2](https://arxiv.org/abs/1801.04381) — Howard et al., Google
 - [Surprise / SVD](http://surpriselib.com/) — inspiration for collaborative filtering design
