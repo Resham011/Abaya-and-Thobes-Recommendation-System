@@ -213,12 +213,6 @@ TOP_N = 5                                           # Default recommendation cou
 
 ---
 
-## 📄 License
-
-This project is developed as part of a case study for an AI-powered recommendation system for the Middle Eastern fashion industry. See `LICENSE` for details.
-
----
-
 ## Acknowledgements
 
 - [MobileNetV2](https://arxiv.org/abs/1801.04381) — Howard et al., Google
