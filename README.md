@@ -11,7 +11,7 @@ A full-stack AI-powered recommendation engine tailored for the Middle Eastern fa
 The system uses a **hybrid recommendation pipeline** with three models working together:
 
 | Model | Type | What it does |
-|---|---|---|
+|---|---|---|     
 | **SVD Collaborative Filter** | User-behavior | Learns from purchase/click/view history to surface items liked by similar users |      
 | **TF-IDF Content Model** | Content-based | Matches products by textual similarity — fabric, style, occasion, price range |
 | **MobileNetV2 Visual Search** | Computer vision | Fine-tuned on garment images; finds visually similar items from an uploaded photo |
